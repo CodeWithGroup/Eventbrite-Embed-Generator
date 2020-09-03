@@ -1,1 +1,1 @@
-Eventbrite Embed Generator
+CodeWith Eventbrite Code Generator
